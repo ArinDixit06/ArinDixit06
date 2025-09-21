@@ -17,8 +17,7 @@
 - 📁 Tech Stack: React, Redux, Node.js, Express, MongoDB  
 
 👨‍💻 **Connect with me**  
-- 📧 Email: [id2013663@gmail.com](mailto:id2013663@gmail.com)  
-- 📱 WhatsApp: [+91 8800330255](https://wa.me/918800330255)  
+- 📧 Email: [id2013663@gmail.com](mailto:id2013663@gmail.com)   
 - 🌐 Portfolio: *Coming Soon!*  
 
 ---
