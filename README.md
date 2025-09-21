@@ -12,7 +12,7 @@
 - 🎧 AI for Audio Enhancement  
 
 💼 **Projects**  
-- 🧠 [**Studify**](https://studify.com) – A modern LMS with productivity tools  
+- 🧠 [**Studify**] – A modern LMS with productivity tools  
 - ⏲️ Pomodoro Timer, To-do Manager, Group Discussions  
 - 📁 Tech Stack: React, Redux, Node.js, Express, MongoDB  
 
