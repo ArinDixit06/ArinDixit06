@@ -1,46 +1,68 @@
-<h1 align="center">Hi 👋, I'm ARIN DIXIT</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student | Full Stack Developer | Passionate About Building Useful Tech</h3>
+# 👋 Hi, I'm Arin Dixit
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArinDixit06&label=Profile%20views&color=0e75b6&style=flat" alt="ArinDixit06" />
-</p>
-
-🌱 **Currently learning**  
-- 🔭 Full Stack Web Development (MERN)  
-- 🤖 AI/ML fundamentals and real-world applications  
-- 🎮 Building fun horror games (like Granny)  
-- 🎧 AI for Audio Enhancement  
-
-💼 **Projects**  
-- 🧠 [**Studify**] – A modern LMS with productivity tools  
-- ⏲️ Pomodoro Timer, To-do Manager, Group Discussions  
-- 📁 Tech Stack: React, Redux, Node.js, Express, MongoDB  
-
-👨‍💻 **Connect with me**  
-- 📧 Email: [id2013663@gmail.com](mailto:id2013663@gmail.com)   
-- 🌐 Portfolio: *Coming Soon!*  
+**B.Tech CSE (AI & ML) Student @ K.R. Mangalam University**  
+Aspiring Full Stack Developer | AI & ML Enthusiast
 
 ---
 
-📈 **GitHub Stats**  
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight" alt="ArinDixit06" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArinDixit06&theme=tokyonight" alt="ArinDixit06" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+I'm passionate about building useful tech products that blend creativity, functionality, and real-world impact. I thrive on solving challenging problems, love clean and modern UI/UX, and enjoy collaborating with others in open source and team projects.
 
 ---
 
-📊 **Languages & Tools**  
+## 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,cpp,python,github,git,figma,vercel" />
-</p>
+**Programming:** Python, C++, JavaScript, Dart  
+**Web:** React.js, Node.js, Express.js, Tailwind CSS, HTML, CSS  
+**Databases:** MongoDB, SQLite, PostgreSQL  
+**AI/ML:** Machine Learning (Python), Audio Enhancement Models, CS50 AI coursework  
+**App Dev:** Flutter (Riverpod, Sqflite, animations, modern UI)  
+**Dashboards & Visualization:** Plotly/Dash, Chart.js, Matplotlib, MongoDB + React  
+**Other:** Git/GitHub, Supabase, Render Hosting, Postman
 
 ---
 
-🔭 **Fun Facts**  
-- 🧩 I enjoy solving real-life problems with code  
-- 🎮 I’m creating a horror game that people *actually enjoy*  
-- 🧘‍♂️ I like clean UIs and meaningful UX  
+## 🌟 Highlighted Projects
+
+- **Studify:** Minimal LMS inspired by Notion. Features Pomodoro timer, group discussions, assignments, accessibility, and course management.
+- **IoT Gas Monitoring Dashboard:** Real-time React + Node.js app with MongoDB, metric cards, sensor analytics, and SaaS-style dashboards.
+- **CGF Dashboard:** Python Dash modular dashboard for multiple MongoDB collections, Excel export, aggregation pipelines.
+- **Flutter Project Timeline App:** Timeline & project management with SQLite, animations, and advanced UI.
+- **AI Projects:** ML models for audio enhancement, exploring AI with Python (CS50 AI course).
+
+---
+
+## 🔥 Interests
+
+- AI & ML – building intelligent, real-world solutions
+- Full Stack Development – frontend, backend, and database integration
+- Open Source – learning from and contributing to the community
+- Modern UI/UX – clean, minimal, accessible, and user-friendly design
+
+---
+
+## 🎯 Extra Highlights
+
+- Strong problem-solving and debugging focus; obsessed with optimization.
+- Skilled at transforming raw data into meaningful dashboards.
+- Can switch seamlessly between system-level (C++) and web/app (React/Flutter) development.
+- Thrive in collaborative projects, balancing technical depth and creativity.
+
+---
+
+## 🎮 Fun Facts
+
+- Tech blogger & lifelong learner—always experimenting with new stacks.
+- Enjoys gaming, sketching UI ideas, and exploring futuristic tech trends.
+- Loves teaching peers and breaking down complex concepts simply.
+
+---
+
+## 🌐 Connect with Me
+
+- **GitHub:** [github.com/ArinDixit06](https://github.com/ArinDixit06)
+- **LinkedIn:** [linkedin.com/in/arindixit](https://linkedin.com/in/arindixit)
+- **Email:** id2013663@gmail.com
+
+*Portfolio/Website coming soon!*
