@@ -93,6 +93,5 @@ HTML5 • CSS3
 * **GitHub:** [github.com/ArinDixit06](https://github.com/ArinDixit06)
 * **LinkedIn:** [linkedin.com/in/arindixit](https://linkedin.com/in/arindixit)
 * **Email:** [id2013663@gmail.com](mailto:id2013663@gmail.com)
-* **Phone:** +91 8800330255
 
 ---
