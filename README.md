@@ -1,68 +1,98 @@
 # 👋 Hi, I'm Arin Dixit
 
-**B.Tech CSE (AI & ML) Student @ K.R. Mangalam University**  
-Aspiring Full Stack Developer | AI & ML Enthusiast
+**B.Tech CSE (AI & ML), K.R. Mangalam University (2024–2028)**
+AI/ML Student | Full Stack Developer | Mobile App Developer
 
 ---
 
-## 🚀 About Me
+## 🧑‍💼 Summary
 
-I'm passionate about building useful tech products that blend creativity, functionality, and real-world impact. I thrive on solving challenging problems, love clean and modern UI/UX, and enjoy collaborating with others in open source and team projects.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Programming:** Python, C++, JavaScript, Dart  
-**Web:** React.js, Node.js, Express.js, Tailwind CSS, HTML, CSS  
-**Databases:** MongoDB, SQLite, PostgreSQL  
-**AI/ML:** Machine Learning (Python), Audio Enhancement Models, CS50 AI coursework  
-**App Dev:** Flutter (Riverpod, Sqflite, animations, modern UI)  
-**Dashboards & Visualization:** Plotly/Dash, Chart.js, Matplotlib, MongoDB + React  
-**Other:** Git/GitHub, Supabase, Render Hosting, Postman
+Computer Science undergraduate specializing in **Artificial Intelligence, Machine Learning**, and **full-stack development**. Passionate about building **scalable software**, **intelligent systems**, and **clean, user-focused designs**. Currently seeking opportunities to apply and expand technical and analytical skills through internships and real-world projects.
 
 ---
 
-## 🌟 Highlighted Projects
+## 💼 Experience
 
-- **Studify:** Minimal LMS inspired by Notion. Features Pomodoro timer, group discussions, assignments, accessibility, and course management.
-- **IoT Gas Monitoring Dashboard:** Real-time React + Node.js app with MongoDB, metric cards, sensor analytics, and SaaS-style dashboards.
-- **CGF Dashboard:** Python Dash modular dashboard for multiple MongoDB collections, Excel export, aggregation pipelines.
-- **Flutter Project Timeline App:** Timeline & project management with SQLite, animations, and advanced UI.
-- **AI Projects:** ML models for audio enhancement, exploring AI with Python (CS50 AI course).
+### **Biosharti — Software Development Intern**
 
----
+**Jun 2024 – Jul 2024 | Virtual**
 
-## 🔥 Interests
-
-- AI & ML – building intelligent, real-world solutions
-- Full Stack Development – frontend, backend, and database integration
-- Open Source – learning from and contributing to the community
-- Modern UI/UX – clean, minimal, accessible, and user-friendly design
+* Built a **cross-platform Flutter application** for monitoring biogas plant metrics.
+* Integrated **REST APIs** for real-time IoT sensor streaming.
+* Designed **responsive UI** layouts for both mobile & tablet.
+* Implemented **graphical analytics dashboards** to visualize performance.
 
 ---
 
-## 🎯 Extra Highlights
+## 🚀 Projects
 
-- Strong problem-solving and debugging focus; obsessed with optimization.
-- Skilled at transforming raw data into meaningful dashboards.
-- Can switch seamlessly between system-level (C++) and web/app (React/Flutter) development.
-- Thrive in collaborative projects, balancing technical depth and creativity.
+### **Productivity + AI Study Assistant (Flutter App) | 2024 – Present**
 
----
+* Full productivity suite with **note-taking, scheduling**, and an **AI academic assistant**.
+* Implemented **PDF summarization** & **automated notes generation** using LLM APIs.
+* Added **Pomodoro timer**, analytics, and performance tracking graphs.
 
-## 🎮 Fun Facts
+### **StudyQuest – Gamified Learning Platform | 2024 – Present**
 
-- Tech blogger & lifelong learner—always experimenting with new stacks.
-- Enjoys gaming, sketching UI ideas, and exploring futuristic tech trends.
-- Loves teaching peers and breaking down complex concepts simply.
+* Building an educational platform for **Grades 8–10** with structured learning workflows.
+* Features **AI study assistant**, digital notebooks, gamified progression, quizzes, and tasks.
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Skills
 
-- **GitHub:** [github.com/ArinDixit06](https://github.com/ArinDixit06)
-- **LinkedIn:** [linkedin.com/in/arindixit](https://linkedin.com/in/arindixit)
-- **Email:** id2013663@gmail.com
+### **Languages**
 
-*Portfolio/Website coming soon!*
+Python • C • Java • Kotlin • JavaScript • Dart • SQL
+
+### **Web & Mobile Development**
+
+Flutter • React • React Native
+Node.js • Android Development
+
+### **Databases**
+
+MySQL • MongoDB • PostgreSQL
+
+### **Tools & Others**
+
+Git • GitHub • VS Code • Postman • Figma
+HTML5 • CSS3
+
+---
+
+## 📘 Coursework
+
+* Data Structures & Algorithms
+* Database Management Systems
+* Artificial Intelligence
+* Machine Learning
+* Web Development
+* Operating Systems
+
+---
+
+## 🏆 Achievements
+
+* **4th Position** — ROBOTHON 1.0 Drone Racing Competition
+* Participated in multiple **university hackathons** and **AI/ML challenges**
+
+---
+
+## 🎯 What I’m Interested In
+
+* AI-driven productivity tools
+* Mobile app development (Flutter & React Native)
+* Intelligent learning platforms
+* Full stack development & scalable backend systems
+
+---
+
+## 🌐 Connect With Me
+
+* **GitHub:** [github.com/ArinDixit06](https://github.com/ArinDixit06)
+* **LinkedIn:** [linkedin.com/in/arindixit](https://linkedin.com/in/arindixit)
+* **Email:** [id2013663@gmail.com](mailto:id2013663@gmail.com)
+* **Phone:** +91 8800330255
+
+---
