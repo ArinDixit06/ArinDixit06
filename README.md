@@ -3,7 +3,7 @@
 **B.Tech CSE (AI & ML) @ K.R. Mangalam University (2024–2028)**
 *AI/ML Enthusiast | Full Stack Developer | Mobile App Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/arindixit](https://www.linkedin.com/in/arin-dixit-820b45266/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arin-dixit-820b45266/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ArinDixit06)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:id2013663@gmail.com)
 
@@ -17,8 +17,8 @@ I am a Computer Science undergraduate specializing in **Artificial Intelligence*
 
 ## 🚀 Featured Projects
 
-### **📂 CloudBox Enterprise – Secure Cloud Storage System**
-**2025 | *Python (Flask), Supabase, Vanilla JS, Tailwind CSS***
+### **📂 [CloudBox Enterprise](https://cloud-file-saving.onrender.com)**
+**2025 | *Python (Flask), Supabase, Vanilla JS, Tailwind CSS* | [🔗 Live Demo](https://cloud-file-saving.onrender.com)**
 
 A high-performance, single-page application (SPA) for secure file management, featuring a custom-built document converter and analytics dashboard.
 
@@ -28,18 +28,18 @@ A high-performance, single-page application (SPA) for secure file management, fe
 * **Frontend UX:** Designed a responsive **Dark/Light mode** UI with **Drag-and-Drop** uploads, real-time search, and a visual storage usage dashboard using **Chart.js**.
 * **DevOps:** Deployed on **Render** with GitHub Actions cron jobs to maintain high availability.
 
+### **🎮 [StudyQuest](https://mindbender4-0.onrender.com)**
+**2024 – Present | *MERN Stack / Flutter* | [🔗 Live Demo](https://mindbender4-0.onrender.com)**
+
+* Educational platform for Grades 8–10 focusing on gamified progression.
+* Includes digital notebooks, AI tutors, and quiz-based learning workflows.
+
 ### **📱 Productivity + AI Study Assistant**
 **2024 – Present | *Flutter, Dart, LLM APIs***
 
 * A comprehensive productivity suite combining note-taking and scheduling.
 * Integrated **Generative AI** for PDF summarization and automated note generation.
 * Features include a **Pomodoro timer**, performance analytics, and visual progress tracking.
-
-### **🎮 StudyQuest – Gamified Learning Platform**
-**2024 – Present | *MERN Stack (Conceptual)* / *Flutter***
-
-* Educational platform for Grades 8–10 focusing on gamified progression.
-* Includes digital notebooks, AI tutors, and quiz-based learning workflows.
 
 ---
 
