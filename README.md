@@ -3,7 +3,7 @@
 **B.Tech CSE (AI & ML) @ K.R. Mangalam University (2024–2028)**
 *AI/ML Enthusiast | Full Stack Developer | Mobile App Developer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arindixit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/arindixit](https://www.linkedin.com/in/arin-dixit-820b45266/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ArinDixit06)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:id2013663@gmail.com)
 
