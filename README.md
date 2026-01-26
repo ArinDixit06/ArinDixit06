@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Enthusiast;AI+%2F+ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Enthusiast;AI+%2F+ML+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     </td>
     <td width="50%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF" />
+      <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="100%" alt="Professional Coding" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 
 | **UniSync** | **Collaborate** | **CloudBox** |
 | :---: | :---: | :---: |
-| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93N3R6eW5pZnd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" height="120" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh6amZ5Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lM8A5pBAH7U5Z6/giphy.gif" width="200" height="120" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueW93N3R6eW5pZnd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxP5O5wO5Yk/giphy.gif" width="200" height="120" /> |
+| <img src="https://cdn.pixabay.com/animation/2023/06/13/14/09/14-09-54-323_512.gif" width="200" height="120" /> | <img src="https://cdn.pixabay.com/animation/2023/05/02/09/01/09-01-20-422_512.gif" width="200" height="120" /> | <img src="https://cdn.pixabay.com/animation/2022/11/03/17/37/17-37-25-345_512.gif" width="200" height="120" /> |
 | AI Mail Client for Students | AI-Powered Team Collab | Secure Cloud Storage |
 
 </div>
@@ -66,12 +66,11 @@
 * 🎮 **Fun Fact:** I've spent a healthy amount of time exploring the lore of *God of War* and *Pokémon ROM hacks*.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArinDixit06&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArinDixit06&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXP6vX9fXyNqXnRy/giphy.gif" width="50" />
   <p><i>Building the future, one commit at a time.</i></p>
 </div>
