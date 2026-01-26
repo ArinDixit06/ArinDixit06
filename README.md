@@ -1,79 +1,77 @@
-# 👋 Hi, I'm Arin Dixit
+# 👋 Hi, I'm Arin Dixit 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Arin%20Dixit&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-**B.Tech CSE (AI & ML) @ K.R. Mangalam University (2024–2028)**
-*AI/ML Enthusiast | Full Stack Developer | Mobile App Developer*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Enthusiast;AI+%2F+ML+Explorer" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arin-dixit-820b45266/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ArinDixit06)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat&logo=gmail)](mailto:id2013663@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/arin-dixit-820b45266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:id2013663@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧑‍💼 Summary
-
-I am a Computer Science undergraduate specializing in **Artificial Intelligence** and **Full-Stack Development**. I focus on building intelligent, user-centric applications—from AI-driven mail clients to seamless file-sharing utilities. I enjoy bridging the gap between robust backend architecture and intuitive mobile/web experiences.
-
----
-
-## 🛠️ Currently Working On
-* **UniSync:** An intelligent mail client designed specifically for student workflows.
-* **Collaborate:** A web platform for group project management with integrated AI features.
-* **Brodine:** A cross-platform note-taking app (Flutter/React) with cloud sync and offline capabilities.
+## ⚡ Quick Summary
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>I build <b>intelligent software</b> that bridges the gap between AI and daily productivity. Currently specializing in <b>React/Next.js</b> and <b>Flutter</b>, while exploring the depths of <b>Machine Learning</b> at K.R. Mangalam University.</p>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </td>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
+<div align="center">
 
-### **📧 UniSync**
-**2026 | *Next.js, React, AI Integration***
-* Developing an intelligent mail client to streamline academic communication for students.
-* Focusing on automated categorization and student-centric UX.
+| **UniSync** | **Collaborate** | **CloudBox** |
+| :---: | :---: | :---: |
+| <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueW93N3R6eW5pZnd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKVUn7iM8FMEU24/giphy.gif" width="200" height="120" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh6amZ5Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lM8A5pBAH7U5Z6/giphy.gif" width="200" height="120" /> | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueW93N3R6eW5pZnd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxP5O5wO5Yk/giphy.gif" width="200" height="120" /> |
+| AI Mail Client for Students | AI-Powered Team Collab | Secure Cloud Storage |
 
-### **📁 CloudBox Enterprise / Local Drop**
-**2025 | *Python (Flask), Supabase, Vanilla JS, Tailwind CSS***
-* **CloudBox:** A secure SPA for file management with a custom Python-based document converter (Image→PDF, Word→Text).
-* **Local Drop:** A Wi-Fi-based utility for rapid local file transfers.
-* Implemented "Lock-on-Close" session security and a real-time storage dashboard using **Chart.js**.
-
-### **🎮 StudyQuest**
-**2024 – Present | *MERN Stack / Flutter***
-* Gamified learning platform for Grades 8–10 featuring digital notebooks and AI tutors.
-* Integrated quiz-based workflows to improve student engagement.
+</div>
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
+### **Front-end & Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,html,css" />
+</p>
 
-### **YugaYatra Retail (OPC) Pvt. Ltd. — Software Development Intern**
-**Jan 2026 – Present**
-* Contributing to full-stack development and software solutions within the retail tech space.
+### **Back-end & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,cpp,java,supabase,postgres,mongodb" />
+</p>
 
-### **Biosharti — Software Development Intern**
-**Jun 2024 – Jul 2024**
-* Developed a **cross-platform Flutter application** for real-time IoT biogas plant monitoring.
-* Integrated **REST APIs** for live sensor data visualization.
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Frameworks** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Databases** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) |
+### **Tools & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,render,vscode" />
+</p>
 
 ---
 
-## 🏆 Achievements & Interests
+## 💼 Experience & Status
+* 🔭 **Currently Interning at:** YugaYatra Retail (OPC) Pvt. Ltd.
+* 🌱 **Learning:** Advanced Deep Learning & System Design.
+* 🎮 **Fun Fact:** I've spent a healthy amount of time exploring the lore of *God of War* and *Pokémon ROM hacks*.
 
-* **4th Position:** ROBOTHON 1.0 Drone Racing Competition.
-* **Challenge:** Completed **#100DaysOfCode** solving DSA problems in C++.
-* **Interests:** Pokémon lore & ROM hacking, Indian Mythical Horror literature, and local multiplayer gaming.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArinDixit06&theme=vision-friendly-dark" alt="GitHub Streak" />
+</p>
 
 ---
 
 <div align="center">
-  <p><i>Turning complex problems into elegant code. Let's connect!</i></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYycW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueW5ueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1SXP6vX9fXyNqXnRy/giphy.gif" width="50" />
+  <p><i>Building the future, one commit at a time.</i></p>
 </div>
