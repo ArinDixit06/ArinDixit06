@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A0A0A&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Developer;AI+%2F+ML+Research+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A0A0A&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Developer;AI+Explorer;Open+Source+Contributor" />
 </p>
 
 <p align="center">
@@ -26,25 +26,29 @@
 
 <table align="center">
 <tr>
+
 <td width="55%">
 
-🚀 I’m a **Computer Science Engineering (AI & ML)** student passionate about building **scalable, intelligent, and user-focused applications**.
+🚀 I'm a **B.Tech CSE (AI & ML)** student passionate about building **scalable, intelligent, and impactful software**.
 
-I specialize in:
-
+### 💡 What I Do
 - ⚛️ Full-Stack Web Development  
-- 📱 Cross-Platform Mobile Apps  
-- 🤖 Machine Learning & AI Systems  
-- ☁️ Cloud & API Engineering  
+- 📱 Mobile App Development  
+- 🤖 AI / Machine Learning  
+- ☁️ Cloud & API Systems  
 
-Currently exploring **advanced deep learning**, **system architecture**, and **real-time applications**.
-
-</td>
-<td width="45%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+I love solving real-world problems using **technology + creativity**.
 
 </td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" />
+
+🐱💻 *Me debugging at 3AM*
+
+</td>
+
 </tr>
 </table>
 
@@ -55,10 +59,10 @@ Currently exploring **advanced deep learning**, **system architecture**, and **r
 <div align="center">
 
 | Project | Preview | Description |
-|--------|---------|-------------|
-| **UniSync** | <img src="https://cdn.pixabay.com/animation/2023/06/13/14/09/14-09-54-323_512.gif" width="180" /> | AI-powered email & productivity platform for students |
-| **Collaborate** | <img src="https://cdn.pixabay.com/animation/2023/05/02/09/01/09-01-20-422_512.gif" width="180" /> | Real-time team collaboration suite |
-| **CloudBox** | <img src="https://cdn.pixabay.com/animation/2022/11/03/17/37/17-37-25-345_512.gif" width="180" /> | Secure cloud storage with encryption |
+|---------|---------|-------------|
+| **UniSync** | 🤖 | AI-powered email & productivity platform for students |
+| **Collaborate** | 👥 | Real-time team collaboration system |
+| **CloudBox** | ☁️ | Secure cloud storage with encryption |
 
 </div>
 
@@ -86,21 +90,30 @@ Currently exploring **advanced deep learning**, **system architecture**, and **r
 ## 💼 Experience & Learning
 
 - 🔭 **Intern:** YugaYatra Retail (OPC) Pvt. Ltd.  
-- 🌱 **Currently Learning:**  
+- 🌱 **Learning:**  
   - Advanced Deep Learning  
-  - Distributed Systems  
+  - System Design  
   - Cloud Architecture  
-- 💡 **Interests:** AI Research, Product Design, Open Source  
+- 💡 **Interests:** AI Research, SaaS Products, Open Source  
 
-🎮 **Fun Fact:** I enjoy deep-diving into *God of War lore* and building Pokémon ROM hacks.
+🎮 **Fun Fact:** I enjoy exploring *God of War lore* and Pokémon ROM hacks.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArinDixit06&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArinDixit06&theme=vision-friendly-dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=ArinDixit06&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="45%" />
+
 </p>
 
 ---
@@ -109,12 +122,12 @@ Currently exploring **advanced deep learning**, **system architecture**, and **r
 
 💬 Open to:
 
-- Internships  
-- Freelance Projects  
-- Research Collaboration  
-- Startup Ideas  
+- 🚀 Internships  
+- 💼 Freelance Work  
+- 🧠 Research Projects  
+- 🌱 Startup Ideas  
 
-📫 Reach me at: **id2013663@gmail.com**
+📫 Email: **id2013663@gmail.com**
 
 ---
 
