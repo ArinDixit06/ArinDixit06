@@ -58,11 +58,11 @@ I love solving real-world problems using **technology + creativity**.
 
 <div align="center">
 
-| Project | Preview | Description |
-|---------|---------|-------------|
-| **UniSync** | 🤖 | AI-powered email & productivity platform for students |
-| **Collaborate** | 👥 | Real-time team collaboration system |
-| **CloudBox** | ☁️ | Secure cloud storage with encryption |
+| Project | Description |
+|---------|-------------|
+| **UniSync** | AI-powered productivity platform for students |
+| **Collaborate** | Real-time team collaboration system |
+| **CloudBox** | Secure cloud storage with encryption |
 
 </div>
 
@@ -90,21 +90,18 @@ I love solving real-world problems using **technology + creativity**.
 ## 💼 Experience & Learning
 
 - 🔭 **Intern:** YugaYatra Retail (OPC) Pvt. Ltd.  
-- 🌱 **Learning:**  
-  - Advanced Deep Learning  
-  - System Design  
-  - Cloud Architecture  
-- 💡 **Interests:** AI Research, SaaS Products, Open Source  
+- 🌱 **Learning:** Deep Learning, System Design, Cloud Architecture  
+- 💡 **Interests:** AI Research, SaaS, Open Source  
 
-🎮 **Fun Fact:** I enjoy exploring *God of War lore* and Pokémon ROM hacks.
+🎮 **Fun Fact:** Loves God of War lore & Pokémon ROM hacks.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=ArinDixit06&theme=tokyonight&hide_border=true" width="48%" />
 
@@ -112,7 +109,7 @@ I love solving real-world problems using **technology + creativity**.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="45%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 
 </p>
 
@@ -123,8 +120,8 @@ I love solving real-world problems using **technology + creativity**.
 💬 Open to:
 
 - 🚀 Internships  
-- 💼 Freelance Work  
-- 🧠 Research Projects  
+- 💼 Freelance  
+- 🧠 Research  
 - 🌱 Startup Ideas  
 
 📫 Email: **id2013663@gmail.com**
@@ -135,6 +132,6 @@ I love solving real-world problems using **technology + creativity**.
 
 ### ✨ *"Building the future, one commit at a time."*
 
-⭐ If you like my work, consider starring my repositories!
+⭐ Star my repos if you like my work!
 
 </div>
