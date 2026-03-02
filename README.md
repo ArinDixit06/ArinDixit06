@@ -98,7 +98,7 @@ I love solving real-world problems using **technology + creativity**.
 
 ---
 
-## 📊 GitHub Stats (Stable)
+## 📊 GitHub Stats 
 
 <p align="center">
 
