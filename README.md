@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Arin Dixit  
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Arin%20Dixit&fontSize=85&fontAlignY=35&animation=fadeIn" width="100%" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=B.Tech+CSE+(AI+%26+ML)+Student;Full+Stack+Developer;Mobile+App+Developer;AI+Explorer;Open+Source+Contributor" />
-
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/arin-dixit-820b45266/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,15 +17,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArinDixit06&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
-
 ## ⚡ About Me
-
 <table align="center">
 <tr>
-
 <td width="55%">
-
 🚀 I'm a **B.Tech CSE (AI & ML)** student passionate about building **scalable, intelligent, and impactful software**.
 
 ### 💡 What I Do
@@ -39,24 +35,17 @@
 - ☁️ Cloud & API Systems  
 
 I love solving real-world problems using **technology + creativity**.
-
 </td>
-
 <td width="45%" align="center">
-
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" />
 
 🐱💻 *Me debugging at 3AM*
-
 </td>
-
 </tr>
 </table>
 
 ---
-
 ## 🚀 Featured Projects
-
 <div align="center">
 
 | Project | Description |
@@ -68,7 +57,6 @@ I love solving real-world problems using **technology + creativity**.
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend & Mobile
@@ -87,9 +75,7 @@ I love solving real-world problems using **technology + creativity**.
 </p>
 
 ---
-
 ## 💼 Experience & Learning
-
 - 🔭 **Intern:** YugaYatra Retail (OPC) Pvt. Ltd.  
 - 🌱 **Learning:** Deep Learning, System Design, Cloud Architecture  
 - 💡 **Interests:** AI Research, SaaS, Open Source  
@@ -97,29 +83,29 @@ I love solving real-world problems using **technology + creativity**.
 🎮 **Fun Fact:** Loves God of War lore & Pokémon ROM hacks.
 
 ---
-
 ## 📊 GitHub Stats 
-
 <p align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://streak-stats.demolab.com?user=ArinDixit06&theme=tokyonight&hide_border=true" width="48%" />
-
 </p>
-
 <p align="center">
-
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Total+Commits+%26+Activity" width="48%" />
 </p>
 
 ---
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake.svg" />
+  </picture>
+</p>
 
+---
 ## 🤝 Let's Connect
-
 💬 Open to:
-
 - 🚀 Internships  
 - 💼 Freelance  
 - 🧠 Research  
@@ -128,11 +114,9 @@ I love solving real-world problems using **technology + creativity**.
 📫 Email: **id2013663@gmail.com**
 
 ---
-
 <div align="center">
 
 ### ✨ *"Building the future, one commit at a time."*
 
 ⭐ Star my repos if you like my work!
-
 </div>
