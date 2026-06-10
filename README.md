@@ -1,186 +1,311 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,20&height=200&section=header&text=Arin%20Dixit&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlignY=55" width="100%" />
-</p>
+<!-- HEADER -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=E8536A&center=true&vCenter=true&width=600&lines=crafting+clean+architecture+%26+fast+interfaces;shipping+full-stack+products+that+scale;building+AI+features+that+actually+help;open+to+internships+%26+collaborations" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  $ git log --all --oneline --graph --decorate --author="Arin Dixit"            ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://arin-nu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-arin--nu.vercel.app-E8536A?style=for-the-badge&labelColor=1d1d1f" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arin-dixit-820b45266/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:id2013663@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ArinDixit06">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/arinDixit1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
+<!-- BRANCH STATUS -->
+```
+On branch: main   ──●  feat/open-to-opportunities
+Remote: origin/arin-dixit.vercel.app
+HEAD is 2 commits ahead of origin/main, 0 behind
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArinDixit06&label=Profile+Views&color=E8536A&style=flat-square" alt="Profile Views" />
-</p>
+Last sync: June 2025  ·  Status: ✔ working tree clean
+```
 
 ---
 
-## ⚡ About Me
+<!-- COMMIT LOG HEADER -->
+<div align="center">
 
-<table align="center">
-<tr>
-<td width="55%">
+### `git log --pretty=format:"%C(yellow)%h%Creset %C(cyan)%ai%Creset %s" --stat`
 
-🎯 **B.Tech CSE (AI & ML)** student who believes the best code is invisible — fast, reliable, and quietly elegant.
-
-### What drives me
-- ⚛️ Building **full-stack products** end to end
-- 🤖 Integrating **AI into real workflows**, not demos
-- 📱 Crafting **clean, fast interfaces** people enjoy using
-- ☁️ Designing **systems that scale** without drama
-
-> *"Clean architecture. Fast interfaces. Software that earns trust."*
-
-</td>
-<td width="45%" align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" />
-
-🐱💻 *Me debugging at 3AM*
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- COMMIT 1 - APL WIN -->
+```
+commit a3f91c2d  (HEAD → main, tag: v21.6-champion)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   June 2025
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3><a href="https://collaborater.vercel.app">Collaborate</a></h3>
-<img src="https://img.shields.io/badge/MERN_+_AI-E8536A?style=flat-square" />
-<p><sub>AI-powered workspace for planning, tasks, chat & live meetings</sub></p>
-</td>
-<td align="center" width="33%">
-<h3><a href="https://unisync-five.vercel.app">UniSync</a></h3>
-<img src="https://img.shields.io/badge/React_+_FastAPI-D4405C?style=flat-square" />
-<p><sub>Unified inbox across Gmail & Outlook with AI summaries</sub></p>
-</td>
-<td align="center" width="33%">
-<h3><a href="https://cloud-file-saving.onrender.com/">CloudBox</a></h3>
-<img src="https://img.shields.io/badge/MERN_Stack-C23B52?style=flat-square" />
-<p><sub>Personal cloud storage with direct file ownership</sub></p>
-</td>
-</tr>
-</table>
+    feat(achievement): 🏆 Google Cloud APL National Champion
 
-<p align="center">
-  <a href="https://arin-nu.vercel.app/#projects">
-    <img src="https://img.shields.io/badge/View_All_Projects_→-1d1d1f?style=for-the-badge&labelColor=1d1d1f" />
-  </a>
-</p>
+    Won Google Cloud Build with AI: Agentic Premier League hackathon
+    as 1 of 5 National Champions out of 3,000+ participants.
+    Finale held at Google Ananta, Bengaluru.
+
+    Powered by: Gemini AI · React · Supabase · Socket.io · GCP
+
+    diff --stat
+     stadium-crowd-safety-platform/   |  ++++++++++++++++++++  [NEW]
+     ai-realtime-analytics/           |  ++++++++++++++++      [NEW]
+     crowd-density-heatmap/           |  +++++++++++           [NEW]
+     3 files changed, 847 insertions(+), 0 deletions(-)
+```
 
 ---
 
-## 🛠️ Tech Stack
+<!-- COMMIT 2 - INTERNSHIP -->
+```
+commit 7b2d441e  (tag: v21.5-builder)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   May 2025
 
-<table align="center">
-<tr>
-<td align="center"><b>Frontend & Mobile</b></td>
-<td align="center"><b>Backend & Database</b></td>
-<td align="center"><b>Tools & DevOps</b></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,ts,html,css" />
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,fastapi,cpp,java,postgres,mongodb" />
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,redis,supabase,vscode" />
-</td>
-</tr>
-</table>
+    feat(internship): IoT Air Quality Monitoring — Prof. Rishi Ranjan Kumar
 
----
+    Joined research internship at K.R. Mangalam University.
+    Leading dashboard + mobile app layers for IoT sensor network.
 
-## 💼 Experience
+    Stack: React · React Native/Expo · Node.js · Express · MQTT
 
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Development Intern** | Biosarthi | Jun 2024 – Jul 2024 |
-
-**Highlights:** Shipped a cross-platform Flutter app for biogas plant monitoring, integrated real-time IoT sensor data via REST APIs, and designed responsive performance dashboards.
+    diff --stat
+     iot-dashboard/              |  +++++++++++++++++++  [NEW]
+     mobile-app/expo/            |  +++++++++++++++      [NEW]
+     sensor-data-pipeline/       |  ++++++++            [MODIFIED]
+     3 files changed, 612 insertions(+), 47 deletions(-)
+```
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArinDixit06&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=8" />
-</p>
+<!-- COMMIT 3 - APEX -->
+```
+commit 9c14f83a  (tag: v21.4-saas)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   March 2025
+
+    feat(project): APEX — Full-stack Productivity SaaS
+
+    End-to-end productivity platform with task queuing, real-time
+    collaboration, and AI-powered scheduling. Built and shipped solo.
+
+    Stack: Expo · Node.js · Prisma · BullMQ · Socket.IO · Zustand
+
+    diff --stat
+     apps/mobile/                |  ++++++++++++++++++++  [NEW]
+     server/queue/               |  +++++++++++++         [NEW]
+     server/realtime/            |  ++++++++++++          [NEW]
+     packages/shared/            |  +++++                 [NEW]
+     4 files changed, 2,341 insertions(+), 0 deletions(-)
+```
 
 ---
 
-## 📊 GitHub Stats
+<!-- COMMIT 4 - INFRAWATCH -->
+```
+commit 2e87b6c5  (tag: v21.3-gemini)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   February 2025
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArinDixit06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=ArinDixit06&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArinDixit06&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+    feat(project): InfraWatch — Pothole Reporter · Google Gen AI Academy APAC
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArinDixit06&theme=tokyo-night&hide_border=true&area=true&custom_title=Arin's%20Contribution%20Graph" width="98%" />
-</p>
+    AI-powered road damage detection using Gemini Vision 2.5 Flash.
+    Zero backend. Shipped & documented for Google Meet the Builders.
 
----
+    Stack: React · Gemini 2.5 Flash Vision API · Vite
 
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/output/github-snake.svg" />
-  </picture>
-</p>
+    diff --stat
+     src/vision-pipeline/        |  ++++++++++++++++  [NEW]
+     src/map-renderer/           |  +++++++++         [NEW]
+     public/                     |  +++               [NEW]
+     3 files changed, 441 insertions(+), 0 deletions(-)
+```
 
 ---
 
-## 🤝 Let's Connect
+<!-- COMMIT 5 - BIOSARTHI -->
+```
+commit 5f3dc921  (tag: v20.7-flutter)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   July 2024
 
-<p align="center">
-  💬 Open to <b>internships</b> · <b>freelance</b> · <b>research</b> · <b>startup ideas</b>
-</p>
+    feat(internship): Biosarthi — Flutter IoT Monitoring App
 
-<p align="center">
-  <a href="mailto:id2013663@gmail.com">
-    <img src="https://img.shields.io/badge/📫_Email_Me-id2013663@gmail.com-E8536A?style=for-the-badge&labelColor=1d1d1f" />
-  </a>
-  <a href="https://arin-nu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-arin--nu.vercel.app-E8536A?style=for-the-badge&labelColor=1d1d1f" />
-  </a>
-</p>
+    Cross-platform Flutter app for biogas plant monitoring.
+    Integrated live IoT sensor data via REST APIs. Responsive
+    performance dashboards for field technicians.
+
+    Stack: Flutter · Dart · REST APIs · Firebase
+
+    diff --stat
+     lib/screens/dashboard/      |  ++++++++++++++++  [NEW]
+     lib/services/iot/           |  ++++++++++++      [NEW]
+     lib/widgets/                |  +++++++           [NEW]
+     3 files changed, 788 insertions(+), 0 deletions(-)
+```
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=100&section=footer" width="100%" />
-</p>
+<!-- COMMIT 6 - COLLEGE / ORIGIN -->
+```
+commit 0000001a  (tag: v20.0-init, origin)
+Author: Arin Dixit <id2013663@gmail.com>
+Date:   August 2023
 
-<p align="center">
-  <sub>✨ <i>"Building the future, one commit at a time."</i> ✨</sub>
-  <br/>
-  <sub>⭐ Star my repos if you like my work!</sub>
-</p>
+    init: enrolled B.Tech CSE (AI & ML) · K.R. Mangalam University
+
+    First commit. Starting the build.
+    Event Organizer role added. Repository initialized.
+
+    diff --stat
+     README.md                   |  +  [CREATED THIS FILE]
+     1 file changed, 1 insertion(+), 0 deletions(-)
+```
+
+---
+
+## `git diff HEAD~∞ HEAD -- skills/`
+
+<!-- SKILLS DIFF -->
+```diff
+  # languages
++ JavaScript       ████████████████████  expert
++ TypeScript       ████████████████░░░░  proficient
++ Python           ███████████████░░░░░  proficient
++ Dart             ████████████░░░░░░░░  comfortable
++ C++              ██████████░░░░░░░░░░  familiar
++ Java             ████████░░░░░░░░░░░░  familiar
++ SQL              ██████████████░░░░░░  proficient
+
+  # frontend
++ React            ████████████████████  expert
++ Next.js          ████████████████░░░░  proficient
++ React Native     █████████████████░░░  proficient
++ Flutter          ████████████░░░░░░░░  comfortable
++ Tailwind CSS     ████████████████████  expert
+
+  # backend
++ Node.js          ████████████████████  expert
++ Express          ████████████████░░░░  proficient
++ FastAPI          ████████████░░░░░░░░  comfortable
++ Prisma           █████████████████░░░  proficient
++ BullMQ           ████████████░░░░░░░░  comfortable
+
+  # databases
++ PostgreSQL        ██████████████████░░  proficient
++ MongoDB           ████████████████░░░░  proficient
++ Redis             ████████████░░░░░░░░  comfortable
++ Supabase          █████████████████░░░  proficient
+
+  # ai / ml
++ Gemini API        ████████████████████  expert
++ LangChain         ████████████░░░░░░░░  comfortable
++ FAISS             ██████████░░░░░░░░░░  familiar
++ Embeddings/RAG    █████████████░░░░░░░  proficient
+
+  # devops / tools
++ Git               ████████████████████  expert
++ Docker            ███████████░░░░░░░░░  familiar
++ GCP               ████████████░░░░░░░░  comfortable
++ Postman           ████████████████░░░░  proficient
++ Figma             ████████████░░░░░░░░  comfortable
++ Socket.IO         █████████████████░░░  proficient
+```
+
+---
+
+## `cat package.json | jq '.projects'`
+
+```json
+{
+  "projects": [
+    {
+      "name": "APEX",
+      "type": "SaaS · Mobile + Backend",
+      "stack": ["Expo", "Node.js", "Prisma", "BullMQ", "Socket.IO", "Zustand"],
+      "status": "shipped 🚀"
+    },
+    {
+      "name": "Collaborate",
+      "url": "https://collaborater.vercel.app",
+      "type": "AI Workspace · Full-stack",
+      "stack": ["React", "MERN", "Gemini AI", "Socket.io"],
+      "status": "live 🟢"
+    },
+    {
+      "name": "InfraWatch",
+      "type": "AI Civic Tool · Frontend",
+      "stack": ["React", "Gemini 2.5 Flash Vision", "Vite"],
+      "status": "shipped 🚀"
+    },
+    {
+      "name": "NSL Research Website",
+      "type": "Academic · Full-stack",
+      "stack": ["React", "Vite", "Node.js", "Express", "Framer Motion"],
+      "status": "in review 🔄"
+    },
+    {
+      "name": "Rishtawaala",
+      "type": "Matrimonial Platform · Full-stack",
+      "url": "https://rishtawaala.com",
+      "stack": ["React", "GCP", "Node.js"],
+      "status": "building 🔨"
+    },
+    {
+      "name": "Semantic Drift Detector",
+      "type": "ML Engineering",
+      "stack": ["Python", "FAISS", "GMM", "CUSUM/Page-Hinkley"],
+      "status": "research 🔬"
+    }
+  ]
+}
+```
+
+---
+
+## `git shortlog -sn --no-merges`
+
+```
+  847  Arin Dixit
+    1  caffeine
+    0  sleep (never merged)
+```
+
+---
+
+## `git remote -v  # let's connect`
+
+```
+origin      https://arin-nu.vercel.app                (portfolio)
+linkedin    https://linkedin.com/in/arin-dixit         (reach out)
+github      https://github.com/ArinDixit06             (collab)
+email       mailto:id2013663@gmail.com                 (hire)
+leetcode    https://leetcode.com/u/arinDixit1/         (grind)
+```
+
+---
+
+<!-- OPEN TO WORK STATUS -->
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  $ git status --porcelain                                           │
+│                                                                     │
+│  M  career/full-time-role.md         → open to internships         │
+│  M  career/freelance.md              → open to freelance           │
+│  ?  career/research-collab.md        → interested                  │
+│  ?  career/startup-ideas.md          → let's talk                  │
+│                                                                     │
+│  nothing committed yet — waiting for the right PR                  │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+```
+─────────────────────────────────────────────────────────────────────
+  Arin Dixit · B.Tech CSE (AI & ML) · K.R. Mangalam University
+  Building the future, one commit at a time.
+─────────────────────────────────────────────────────────────────────
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=ArinDixit06&label=profile+views&color=39d353&style=flat-square)
+
+</div>
