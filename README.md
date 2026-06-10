@@ -50,12 +50,6 @@
 ## 🏆 Achievement
 
 <!-- Award visual: trophy/celebration (Chris Liverani on Unsplash) -->
-<img
-  src="https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=1200&h=180&q=80&auto=format&fit=crop&crop=center"
-  width="100%"
-  style="border-radius:8px"
-  alt="achievement banner"
-/>
 
 <br/><br/>
 
