@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/main/assets/arin_ascii_portrait.png" width="420" />
+  <img src="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/arin_ascii_portrait.png" width="420" />
 </p>
 
 <p align="center">
