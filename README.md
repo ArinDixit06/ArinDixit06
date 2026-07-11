@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ArinDixit06/ArinDixit06/main/assets/arin_ascii_portrait.png" width="420" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,18,20&height=200&section=header&text=Arin%20Dixit&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=18&descAlignY=55" width="100%" />
 </p>
 
